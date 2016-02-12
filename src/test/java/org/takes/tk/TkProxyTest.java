@@ -78,7 +78,7 @@ public final class TkProxyTest {
                             );
                     }
                 }
-           );
+            );
         }
     }
 
@@ -115,7 +115,7 @@ public final class TkProxyTest {
                             );
                     }
                 }
-           );
+            );
         }
     }
 }
